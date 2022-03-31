@@ -16,8 +16,8 @@
  ## September
  - Week 03
  - Week 04
-  - Pre-Boffin Meetup, discussion on contest prep progress
-  - Boffin night practice contest, maybe some practice problems?
+    - Pre-Boffin Meetup, discussion on contest prep progress
+    - Boffin night practice contest, maybe some practice problems?
  - Week 05
  - Week 06
  ## October
