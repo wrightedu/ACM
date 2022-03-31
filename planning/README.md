@@ -1,6 +1,6 @@
 # Remainder of Spring 2022
 
-- Officer elections
+- Officer elections - 4/21
 - Offboarding / documentation
 - Boffin night - arduinos & sensors - Quinn (week of 4/4?)
 - BCI night 1 - set up Ultracortex Mark IV w/ Cyton 8-channel
@@ -10,7 +10,9 @@
 - BCI night 2 - join NeuroTech Challenge?
   - https://neurotech-challenge.com/?mc_cid=b2d1cbb13d&mc_eid=e1b2e99667 
 
-# Summer 2022?
+# Summer 2022
+
+- **Host Boy Scouts of America Merit Badge contact Miami Valley Council**
 
 - how to contact outreach volunteers?
 - host an event? - can have college advertise?
