@@ -15,6 +15,7 @@
 - how to contact outreach volunteers?
 - host an event? - can have college advertise?
   - Girl/ Boy Scout Technology badge?
+    - robotics, cybersecurity, coding, 
   - code event?
   - arduino + sensors event?
 
