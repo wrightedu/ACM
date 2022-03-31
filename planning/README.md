@@ -1,3 +1,23 @@
+# Remainder of Spring 2022
+
+- Officer elections
+- Offboarding / documentation
+- Boffin night - arduinos & sensors - Quinn (week of 4/4?)
+- BCI night 1 - set up Ultracortex Mark IV w/ Cyton 8-channel
+  - [assembly video](https://www.youtube.com/watch?v=S87FV-Q59F8&ab_channel=OpenBCI%2CInc.)
+  - [Cyton board getting started](https://docs.openbci.com/GettingStarted/Boards/CytonGS/)
+  - [Ultracortex getting started](https://docs.openbci.com/AddOns/Headwear/MarkIV/)
+- BCI night 2 - join NeuroTech Challenge?
+  - https://neurotech-challenge.com/?mc_cid=b2d1cbb13d&mc_eid=e1b2e99667 
+
+# Summer 2022?
+
+- how to contact outreach volunteers?
+- host an event? - can have college advertise?
+  - Girl/ Boy Scout Technology badge?
+  - code event?
+  - arduino + sensors event?
+
 # Proposed Schedule for Fall 2022
 
 ## August
