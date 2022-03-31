@@ -18,6 +18,10 @@
     - robotics, cybersecurity, coding, 
   - code event?
   - arduino + sensors event?
+- online conference summer chats?
+  - [DockerCon 2022 - May 9th & 10th](https://docker.events.cube365.net/dockercon/2022)
+  - [RedHat Summit 2022 - May 10th & 11th](https://www.redhat.com/en/blog/save-date-red-hat-summit-2022)
+  - [GitHub Universe - October?](https://githubuniverse.com/)
 
 # Proposed Schedule for Fall 2022
 
