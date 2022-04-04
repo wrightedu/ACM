@@ -12,3 +12,11 @@ TODO:  all below needs verified
 - ~~[Student Member Benifits]~~(https://www.acm.org/membership/membership-benefits)
 
 ## Get involved
+
+## TODOS:
+
+- Wright State Chapter needs address update to show at Wright State?
+    - https://www.acm.org/chapters/find-a-chapter
+- who does acm@wright.edu email?
+- link to site - make a github.io page?
+  - sample: https://bgsu-acm.github.io/
