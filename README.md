@@ -20,3 +20,4 @@ TODO:  all below needs verified
 - who does acm@wright.edu email?
 - link to site - make a github.io page?
   - sample: https://bgsu-acm.github.io/
+  - could apply for chapter site https://www.acm.org/chapters/chapter-web-tools
