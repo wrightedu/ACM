@@ -17,8 +17,10 @@
 
 - shall keep the minutes of all Chapter meetings and maintain the Chapter's financial records. 
 - Other duties include, but not limited to:
-  a. Collecting dues, paying all bills, and maintaining records for the Chapter
-  b. Preparation of the Chapter's annual report and officer contact information, and submission of these to ACM Headquarters via the Chapter Administrative Interface
-  c. Submission of any proposed amendment to these bylaws must be submitted to ACM Headquarters - Chapters Department. Proposed amendments must be approved before they
+  1. Collecting dues, paying all bills, and maintaining records for the Chapter
+  2. Preparation of the Chapter's annual report and officer contact information, and submission of these to ACM Headquarters via the Chapter Administrative Interface
+  3. Submission of any proposed amendment to these bylaws must be submitted to ACM Headquarters - Chapters Department. Proposed amendments must be approved before they
 can be submitted to the Chapter's membership for a vote.
-  d. Perform other duties as assigned by the Chair
+  4. Perform other duties as assigned by the Chair
+
+[ACM - Responsibilities of Chapter Officers](https://www.acm.org/chapters/responsibilities-of-chapter-officers)
