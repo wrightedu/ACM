@@ -12,12 +12,12 @@ As the ACM Student Chapter at Wright State University, we support student activi
 
 ## How to join
 
-- Create an ACM Account(https://accounts.acm.org/signin.cfm)!
+- Create an ACM Account(https://accounts.acm.org/signin.cfm)
     - Note: An ACM membership is not required to be a Chapter member, but is encouraged in order to support the mission of the professional organization
 - Reach out to one of the WSU ACM Chapter Officers or Faculty Advisor to have your account associated with the WSU ACM chapter 
 - Become an ACM Member!
     - Note: An ACM membership is not required to be a Chapter member, but is encouraged in order to support the mission of the professional organization
-    - [Compare Membership Benifits](https://www.acm.org/membership/membership-benefits)
+    - [Compare Membership Benefits](https://www.acm.org/membership/membership-benefits)
 - [Student Membership](https://services.acm.org/public/qj/quickjoin/qj_control.cfm?promo=PWEBTOP&form_type=Student)
     - $19 USD / year
 - [Professional Membership](https://services.acm.org/public/qj/profqj/qjprof_control.cfm?promo=PWEBTOP&form_type=Professional)
