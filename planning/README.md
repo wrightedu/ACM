@@ -1,19 +1,22 @@
-# Remainder of Spring 2022
+# TODOS:
 
-- Officer elections - 4/21
-- Offboarding / documentation
-- Boffin night - arduinos & sensors - Quinn (week of 4/4?)
-- BCI night 1 - set up Ultracortex Mark IV w/ Cyton 8-channel
-  - [assembly video](https://www.youtube.com/watch?v=S87FV-Q59F8&ab_channel=OpenBCI%2CInc.)
-  - [Cyton board getting started](https://docs.openbci.com/GettingStarted/Boards/CytonGS/)
-  - [Ultracortex getting started](https://docs.openbci.com/AddOns/Headwear/MarkIV/)
-- BCI night 2 - join NeuroTech Challenge?
-  - https://neurotech-challenge.com/?mc_cid=b2d1cbb13d&mc_eid=e1b2e99667 
+- Find Vice Chair Officer
+- Wright State Chapter needs address update to show at Wright State?
+    - https://www.acm.org/chapters/find-a-chapter
+- who does acm@wright.edu email?
+  - In progress... there are 3 email accounts...
+- Create a website?
+  - Make a github.io page?
+    - sample: https://bgsu-acm.github.io/
+  - could apply for chapter site https://www.acm.org/chapters/chapter-web-tools
+- Put to vote: 
+    - Decommission Facebook page
+    - Decommission Twitter account
+- Find references to calendar link ( http://cecs.wright.edu/~csclubs/events.php ) and remove
 
-# Summer 2022
+# Idea Board Summer 2022
 
-- **Host Boy Scouts of America Merit Badge contact Miami Valley Council**
-
+- Host Boy Scouts of America Merit Badge contact Miami Valley Council
 - how to contact outreach volunteers?
 - host an event? - can have college advertise?
   - Girl/ Boy Scout Technology badge?
@@ -25,6 +28,13 @@
   - [RedHat Summit 2022 - May 10th & 11th](https://www.redhat.com/en/blog/save-date-red-hat-summit-2022)
   - [GitHub InFocus - April 27th - 29th](https://infocus.github.com/)
   - [GitHub Universe - October?](https://githubuniverse.com/)
+- Boffin night - arduinos & sensors
+- BCI night 1 - set up Ultracortex Mark IV w/ Cyton 8-channel
+  - [assembly video](https://www.youtube.com/watch?v=S87FV-Q59F8&ab_channel=OpenBCI%2CInc.)
+  - [Cyton board getting started](https://docs.openbci.com/GettingStarted/Boards/CytonGS/)
+  - [Ultracortex getting started](https://docs.openbci.com/AddOns/Headwear/MarkIV/)
+- BCI night 2 - join NeuroTech Challenge?
+  - https://neurotech-challenge.com/?mc_cid=b2d1cbb13d&mc_eid=e1b2e99667 
 
 # Proposed Schedule for Fall 2022
 
