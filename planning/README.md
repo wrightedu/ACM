@@ -5,6 +5,8 @@
     - https://www.acm.org/chapters/find-a-chapter
 - who does acm@wright.edu email?
   - In progress... there are 3 email accounts...
+  - shut down wsu2021acm gmail
+  - Remember to change Discord server ownship email
 - Create a website?
   - Make a github.io page?
     - sample: https://bgsu-acm.github.io/
