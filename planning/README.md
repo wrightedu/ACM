@@ -16,6 +16,7 @@
     - Decommission Twitter account
 - Find references to calendar link ( http://cecs.wright.edu/~csclubs/events.php ) and remove
 - OCWiC! https://ocwic.org/event/ocwic-2023/
+- Campany wants to host a hackathon - dates and info needed
 
 # Idea Board Summer 2022
 
@@ -74,6 +75,8 @@
       - topics
       - advertising strategy
  - Week 12
+    - GitHub Universe Watch Party? https://www.githubuniverse.com/
+    - November 9th and 10th
  - Week 13
  - Week 14 (Thanksgiving)
  ## December
