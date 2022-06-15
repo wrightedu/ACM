@@ -15,6 +15,7 @@
     - Decommission Facebook page
     - Decommission Twitter account
 - Find references to calendar link ( http://cecs.wright.edu/~csclubs/events.php ) and remove
+- OCWiC! https://ocwic.org/event/ocwic-2023/
 
 # Idea Board Summer 2022
 
