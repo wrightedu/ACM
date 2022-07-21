@@ -3,7 +3,7 @@
 - Find Vice Chair Officer
 - Wright State Chapter needs address update to show at Wright State?
     - https://www.acm.org/chapters/find-a-chapter
-- who does acm@wright.edu email?
+- Only email: acm@wright.edu
   - In progress... there are 3 email accounts...
   - shut down wsu2021acm gmail
   - Remember to change Discord server ownship email
@@ -16,29 +16,7 @@
     - Decommission Twitter account
 - Find references to calendar link ( http://cecs.wright.edu/~csclubs/events.php ) and remove
 - OCWiC! https://ocwic.org/event/ocwic-2023/
-- Campany wants to host a hackathon - dates and info needed
-
-# Idea Board Summer 2022
-
-- Host Boy Scouts of America Merit Badge contact Miami Valley Council
-- how to contact outreach volunteers?
-- host an event? - can have college advertise?
-  - Girl/ Boy Scout Technology badge?
-    - robotics, cybersecurity, coding, 
-  - code event?
-  - arduino + sensors event?
-- online conference summer chats?
-  - [DockerCon 2022 - May 9th & 10th](https://docker.events.cube365.net/dockercon/2022)
-  - [RedHat Summit 2022 - May 10th & 11th](https://www.redhat.com/en/blog/save-date-red-hat-summit-2022)
-  - [GitHub InFocus - April 27th - 29th](https://infocus.github.com/)
-  - [GitHub Universe - October?](https://githubuniverse.com/)
-- Boffin night - arduinos & sensors
-- BCI night 1 - set up Ultracortex Mark IV w/ Cyton 8-channel
-  - [assembly video](https://www.youtube.com/watch?v=S87FV-Q59F8&ab_channel=OpenBCI%2CInc.)
-  - [Cyton board getting started](https://docs.openbci.com/GettingStarted/Boards/CytonGS/)
-  - [Ultracortex getting started](https://docs.openbci.com/AddOns/Headwear/MarkIV/)
-- BCI night 2 - join NeuroTech Challenge?
-  - https://neurotech-challenge.com/?mc_cid=b2d1cbb13d&mc_eid=e1b2e99667 
+- Programming Contest: End of Fall semester - November?
 
 # Proposed Schedule for Fall 2022
 
@@ -47,6 +25,7 @@
   - Send email / post on Discord
   - Install night - help students install software for their courses
     - host Wednesday or Thursday?
+  - Ludlow talk: What is Quantum Computing?
 - Week 02
   - Programming contest planning meeting
     - advertising strategy
@@ -57,16 +36,21 @@
     - Boffin night practice contest, maybe some practice problems?
  ## September
  - Week 03
+    - GitHub Basics Session (mostly in prep for Hackathon)
  - Week 04
-    - Pre-Boffin Meetup, discussion on contest prep progress
-    - Boffin night practice contest, maybe some practice problems?
+    - 9/15 - AIM Hackathon Session 1
+    - Check in on programming contest prep progress
  - Week 05
+    - 9/22 - AIM Hackathon Session 2
  - Week 06
+    - 9/29 - AIM Hackathon Session 3
  ## October
  - Week 07
+    - 10/06 - AIM Hackathon Session 4
+    - **10/07 - [AIM Hackathon](https://www.aim-na.org/hackathon.html)**
  - Week 08
-    - Programming contest Saturday 10/22?
  - Week 09
+    - Check in on programming contest prep progress
  - Week 10
  ## November
  - Week 11
@@ -74,11 +58,46 @@
       - date(s)
       - topics
       - advertising strategy
+      - [Get with Major League Hacking?](https://mlh.io/event-membership)
+        - [Member Guidelines](https://static.mlh.io/docs/mlh-member-event-guidelines.pdf)
+      - To partner with MLH - Application Date. We want to ensure all organizers have enough time to implement our guidance and achieve their fundraising and registration goals. To successfully support your hackathon, the event must submit an application to MLH at least four (4) months before the event.
  - Week 12
-    - GitHub Universe Watch Party? https://www.githubuniverse.com/
+    - [GitHub Universe Watch Party?](https://www.githubuniverse.com/)
     - November 9th and 10th
  - Week 13
  - Week 14 (Thanksgiving)
  ## December
  - Week 15
  - Finals Week
+ 
+ # Idea Board
+
+- Conferences to Check On
+  - [DockerCon 2022 - May 9th & 10th](https://docker.events.cube365.net/dockercon/2022)
+  - [RedHat Summit 2022 - May 10th & 11th](https://www.redhat.com/en/blog/save-date-red-hat-summit-2022)
+  - [GitHub InFocus - April 27th - 29th](https://infocus.github.com/)
+  - [GitHub Universe - October?](https://githubuniverse.com/)
+  - [Ohio Linux Fest](https://olfconference.org/)
+- Participate Locally
+  - [TechFest Dayton](https://www.techfestdayton.org/)
+    - SWE usually attends, maybe add volunteers?
+    - Usually at Sinclair CC
+  - [Hoopla STEM Challenge](https://daytonhoopla.com/community/hoopla-stem-challenge/)
+    - Usually in March at Dayton Convention Center
+  - [Make it Dayton Festival](https://www.daytonhistory.org/events/special-events/make-it-dayton-festival/)
+    - Usually at Carillon Park in Fall - no post for 2022 as of 7/21
+  - [Day-Con?](https://day-con.org/) - no schedule as of 7/21
+- Projects / hackathons
+    - [MLH Global Hack Week](https://ghw.mlh.io/)
+        - October and December Sessions
+    - Local Hackathons:
+        - [RevolutionUC](https://revolutionuc.com/) - February, University of Cincinatti
+        - [MHacks](https://mhacks.org/) - October, University of Michigan
+- Boffin nights
+    - BCI night 1 - set up Ultracortex Mark IV w/ Cyton 8-channel
+      - [assembly video](https://www.youtube.com/watch?v=S87FV-Q59F8&ab_channel=OpenBCI%2CInc.)
+      - [Cyton board getting started](https://docs.openbci.com/GettingStarted/Boards/CytonGS/)
+      - [Ultracortex getting started](https://docs.openbci.com/AddOns/Headwear/MarkIV/)
+    - BCI night 2 - join NeuroTech Challenge?
+      - https://neurotech-challenge.com/?mc_cid=b2d1cbb13d&mc_eid=e1b2e99667 
+    - Piano Staircase
