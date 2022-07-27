@@ -54,13 +54,9 @@
  - Week 10
  ## November
  - Week 11
-    - WSU Hackathon planning
-      - date(s)
-      - topics
-      - advertising strategy
-      - [Get with Major League Hacking?](https://mlh.io/event-membership)
-        - [Member Guidelines](https://static.mlh.io/docs/mlh-member-event-guidelines.pdf)
-      - To partner with MLH - Application Date. We want to ensure all organizers have enough time to implement our guidance and achieve their fundraising and registration goals. To successfully support your hackathon, the event must submit an application to MLH at least four (4) months before the event.
+    - Spring Planning Meeting
+        - Project theme? (Pi room calendar, Piano staircase, Open BCI?)
+        - Cyber Raider?
  - Week 12
     - [GitHub Universe Watch Party?](https://www.githubuniverse.com/)
     - November 9th and 10th
@@ -76,7 +72,7 @@
   - [DockerCon 2022 - May 9th & 10th](https://docker.events.cube365.net/dockercon/2022)
   - [RedHat Summit 2022 - May 10th & 11th](https://www.redhat.com/en/blog/save-date-red-hat-summit-2022)
   - [GitHub InFocus - April 27th - 29th](https://infocus.github.com/)
-  - [GitHub Universe - October?](https://githubuniverse.com/)
+  - [GitHub Universe](https://githubuniverse.com/)
   - [Ohio Linux Fest](https://olfconference.org/)
 - Participate Locally
   - [TechFest Dayton](https://www.techfestdayton.org/)
@@ -93,7 +89,7 @@
     - Local Hackathons:
         - [RevolutionUC](https://revolutionuc.com/) - February, University of Cincinatti
         - [MHacks](https://mhacks.org/) - October, University of Michigan
-- Boffin nights
+- Boffin nights series
     - BCI night 1 - set up Ultracortex Mark IV w/ Cyton 8-channel
       - [assembly video](https://www.youtube.com/watch?v=S87FV-Q59F8&ab_channel=OpenBCI%2CInc.)
       - [Cyton board getting started](https://docs.openbci.com/GettingStarted/Boards/CytonGS/)
