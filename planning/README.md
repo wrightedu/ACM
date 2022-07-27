@@ -25,7 +25,7 @@
   - Send email / post on Discord
   - Install night - help students install software for their courses
     - host Wednesday or Thursday?
-  - Ludlow talk: What is Quantum Computing?
+  - Ludlow talk: What is Quantum Computing? Thursday, 12 PM, 101 NEC
 - Week 02
   - Programming contest planning meeting
     - advertising strategy
