@@ -24,7 +24,12 @@ Topic ideas are gathered below.  If a topic is implemented into a night, create 
       - [Cyton board getting started](https://docs.openbci.com/GettingStarted/Boards/CytonGS/)
       - [Ultracortex getting started](https://docs.openbci.com/AddOns/Headwear/MarkIV/)
     - BCI night 2 - join NeuroTech Challenge?
-      - https://neurotech-challenge.com/?mc_cid=b2d1cbb13d&mc_eid=e1b2e99667 
+      - https://neurotech-challenge.com/?mc_cid=b2d1cbb13d&mc_eid=e1b2e99667
+- Discord bot that message with "this day in computing history"
+- Boffin passport app
+  - QR code to scan (for "attendance")
+  - track "popularity" of a topic - how many scanned QR code
+  - survey "attendees" post session 
 - Piano staircase - multi part
   - intro to arduinos & reading sensors
   - sensors & sound
