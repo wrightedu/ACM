@@ -26,6 +26,7 @@
   - pricing
 
 ## Food
+- Breakfast - coffee and donuts, and fruit
 - Usually pizza, usually estimate 100 people total
 - WSU catering?  Need pricing (contact Lisa)
 
