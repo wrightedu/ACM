@@ -36,18 +36,13 @@
     - Boffin night practice contest, maybe some practice problems?
  ## September
  - Week 03
-    - GitHub Basics Session (mostly in prep for Hackathon)
+    - GitHub Basics Session (mostly in prep for Hackathon in Spring)
  - Week 04
-    - 9/15 - AIM Hackathon Session 1
     - Check in on programming contest prep progress
  - Week 05
-    - 9/22 - AIM Hackathon Session 2
  - Week 06
-    - 9/29 - AIM Hackathon Session 3
  ## October
- - Week 07
-    - 10/06 - AIM Hackathon Session 4
-    - **10/07 - [AIM Hackathon](https://www.aim-na.org/hackathon.html)**
+ - Week 07 (Midterms)
  - Week 08
  - Week 09
     - Check in on programming contest prep progress
@@ -68,12 +63,6 @@
  
  # Idea Board
 
-- Conferences to Check On
-  - [DockerCon 2022 - May 9th & 10th](https://docker.events.cube365.net/dockercon/2022)
-  - [RedHat Summit 2022 - May 10th & 11th](https://www.redhat.com/en/blog/save-date-red-hat-summit-2022)
-  - [GitHub InFocus - April 27th - 29th](https://infocus.github.com/)
-  - [GitHub Universe](https://githubuniverse.com/)
-  - [Ohio Linux Fest](https://olfconference.org/)
 - Participate Locally
   - [TechFest Dayton](https://www.techfestdayton.org/)
     - SWE usually attends, maybe add volunteers?
@@ -84,16 +73,6 @@
     - Usually at Carillon Park in Fall - no post for 2022 as of 7/21
   - [Day-Con?](https://day-con.org/) - no schedule as of 7/21
 - Projects / hackathons
-    - [MLH Global Hack Week](https://ghw.mlh.io/)
-        - October and December Sessions
     - Local Hackathons:
         - [RevolutionUC](https://revolutionuc.com/) - February, University of Cincinatti
         - [MHacks](https://mhacks.org/) - October, University of Michigan
-- Boffin nights series
-    - BCI night 1 - set up Ultracortex Mark IV w/ Cyton 8-channel
-      - [assembly video](https://www.youtube.com/watch?v=S87FV-Q59F8&ab_channel=OpenBCI%2CInc.)
-      - [Cyton board getting started](https://docs.openbci.com/GettingStarted/Boards/CytonGS/)
-      - [Ultracortex getting started](https://docs.openbci.com/AddOns/Headwear/MarkIV/)
-    - BCI night 2 - join NeuroTech Challenge?
-      - https://neurotech-challenge.com/?mc_cid=b2d1cbb13d&mc_eid=e1b2e99667 
-    - Piano Staircase
