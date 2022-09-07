@@ -19,6 +19,12 @@ Topic ideas are gathered below.  If a topic is implemented into a night, create 
 - [MLH Global Hack Week](https://ghw.mlh.io/)
    - October and December Sessions
 - BCI (brain control interface) (needs Dr. Ludlow?)
+  - BCI night 1 - set up Ultracortex Mark IV w/ Cyton 8-channel
+      - [assembly video](https://www.youtube.com/watch?v=S87FV-Q59F8&ab_channel=OpenBCI%2CInc.)
+      - [Cyton board getting started](https://docs.openbci.com/GettingStarted/Boards/CytonGS/)
+      - [Ultracortex getting started](https://docs.openbci.com/AddOns/Headwear/MarkIV/)
+    - BCI night 2 - join NeuroTech Challenge?
+      - https://neurotech-challenge.com/?mc_cid=b2d1cbb13d&mc_eid=e1b2e99667 
 - Piano staircase - multi part
   - intro to arduinos & reading sensors
   - sensors & sound
