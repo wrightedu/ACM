@@ -1,5 +1,9 @@
 # General Programming Contest ToDos
 
+## Reservations
+- Reserve Joshi lobby (registration) and Russ lobby (award ceremony)
+  - Check with college office to verify no conflicts with campus events
+
 ## Registration
 - Online / pre-registration form
   - Name
