@@ -76,3 +76,6 @@
     - Local Hackathons:
         - [RevolutionUC](https://revolutionuc.com/) - February, University of Cincinatti
         - [MHacks](https://mhacks.org/) - October, University of Michigan
+- The Engineers Club of Dayton - watch for in 2023
+    - Engineers’ Club of Dayton’s 1st Annual Young Professionals Networking Event
+    - Friday, October 7th 2022 from 6:30-8 pm (doors to open at 6 pm)
