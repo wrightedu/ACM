@@ -79,3 +79,8 @@
 - The Engineers Club of Dayton - watch for in 2023
     - Engineers’ Club of Dayton’s 1st Annual Young Professionals Networking Event
     - Friday, October 7th 2022 from 6:30-8 pm (doors to open at 6 pm)
+- Miamisburg High School STEM Carnival - October near Halloween?
+    - incorporate experiments and activities from labs, museums, and libraries. I was wondering if you would be interested in helping us out. For example, a station by grad students from computer engineering could do a presentation on one of their projects (something along those lines)
+    - It's going to be geared towards elementary-aged students. The projects I'm looking for should take no longer than five minutes.
+
+
