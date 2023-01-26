@@ -1,0 +1,28 @@
+Jan. 26 (first meeting of Spring 2023):
+	Basics for new members: how to join, anti-hazing, etc.
+	Plugging Hackathon, mention times and dates.
+	Request for an officer.
+		Discuss what roles are available, basic role activities
+		At least two people expressed potential interest in this.
+	Boffin Nights:
+		Machine Learning, Trust (two nights, April most likely)
+		Knowledge Engineering (two nights, March most likely)
+		Open to all WSU members
+		Request for ideas, possible lecture topics
+	Chapter projects:
+		Learning/exploration projects, such as Musical Stairs
+		Discussed musical stairs, location, what it is, aiming for Fall
+		Request for more topics to discuss
+	Outreach Events:
+		Getting out to meet with the community
+		Try to generate interest in computer technology
+		Exact details TBA later.
+	Fliers:
+		University requested for ACM fliers to spread around campus
+		Request for graphic designers
+	Requested feedback for Boffin Night scheduling
+	Mentioned old ACM Discord getting decommissioned soon.
+	Moved onto discussing ACM newsletter topics:
+		Beargloves, VR, haptic feedback.
+		Using WiFi to locate people
+		Technologial limits of AI growth
