@@ -1,0 +1,26 @@
+Feb. 9:
+	Introductions
+	Recruiting Drive
+	Instructed on how to Join ACM, requirements
+	Discussed Hackathon events
+	Gamejam idea proposed
+		What game?  Competition vs cooperative?  like below, leadership
+		Understanding git/github collaboration
+		Recognizing that not everyone will agree, figuring out how to limit conflict
+	Proposal ideas, including Student One Fund
+		Included Kijowski in discussion
+		Requires architecture, leadership to implement piano staircase idea
+		Mentors vs Leadership
+		Mentors should NOT get too involved, as this is a learning experience!
+		Training sessions?
+		Process: ideas, ordering parts, design and impleentation
+		Participation is VERY important!  Getting involved with meetings!
+		Cyber security competition idea
+		Challenge coins?  Challenge design
+		Announcements: clearly communicating what to expect.  Ambiguity will lead to people who might be interested ignoring it.
+		Noted effectiveness of faculty directly engaging with students to announce events
+		Events ought to be more common: past participants can speak positively, encouraging more and more people to join
+	Call for more ideas for Boffin Nights
+	"Hack the Box" discussed, enthusism shown as a potential Boffin Night
+	Piano staircase: how long can be it be running?  On/off/scheduled times, to avoid conflicts with classes (loud?)
+	Possibly shorter events (Boffin Night) to try ideas out, learn from, explore ideas before bigger events
