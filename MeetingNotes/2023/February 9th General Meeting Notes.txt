@@ -24,3 +24,29 @@ Feb. 9:
 	"Hack the Box" discussed, enthusism shown as a potential Boffin Night
 	Piano staircase: how long can be it be running?  On/off/scheduled times, to avoid conflicts with classes (loud?)
 	Possibly shorter events (Boffin Night) to try ideas out, learn from, explore ideas before bigger events
+
+Additional notes from Kayleigh:
+
+	Mini-hackathons for student first fund
+
+	Game jam
+	What game - give three / four main game themes?
+	Is there is core set of features?
+	git / Github for collaborative structure
+	Training sessions ahead of time?
+	Build the arcade
+
+	Piano Staircase
+	3 parts - ideas, part list, design and implementation
+	Key feature set
+	
+	Cyber Security Competition
+	Red team / blue team?
+	"Hack" digital signage (OSU did a hack the clock tower)?
+
+
+	Architecture & leadership
+	Mentors to provide direction & experience?
+	Challenge coins
+	Advertisement improvements to understand scope
+	- noted effectiveness of instructors reaching out
