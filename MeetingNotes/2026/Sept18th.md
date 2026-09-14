@@ -3,13 +3,14 @@
 ## Yearly Contest:
 
 - Solidify Contest Date
+    - Proposed: October 17th, 2026
 - Select date of announcement
 - Discuss registration options 
     - Who will organize this? (E.g. Can we handle this, or must the dept. handle this)
     - How will it be organized? (see REGISTRATION-FORM.md)
     - Any changes we want to make (data-analytics forward)
-- Data Analytics
+- Data Analytics Solutions
 - Discuss problem set
-    - Reese has a selected a few he liked
-    - Some still on the table
+    - From 2017 Set (Prev. year used 2016)
+    - Reskin them (theme??) 
 
