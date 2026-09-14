@@ -11,6 +11,7 @@
     - Any changes we want to make (data-analytics forward)
 - Data Analytics Solutions
 - Discuss problem set
-    - From 2017 Set (Prev. year used 2016)
+    - New problem one
+    - Remainder from 2017 set (Prev. year used 2016)
     - Reskin them (theme??) 
 
