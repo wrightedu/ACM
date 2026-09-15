@@ -14,10 +14,9 @@
     - Pulling from 2017 set (Prev. year used 2016)
     - Pirate theme 
     - These have been converted to MD (from txt)
-- To address:
-    - Intersecting Lines needs fleshed out
-    - Problem B has inconsistent data
-        - Recommend pulling a different one
-    - Adding a few 
-    - 
+    - To address:
+        - Intersecting Lines needs fleshed out
+        - Problem B has inconsistent data
+            - Recommend pulling a different one
+        - We should add a few problems (we only have seven) 
 
