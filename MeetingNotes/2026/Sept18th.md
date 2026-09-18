@@ -16,7 +16,5 @@
     - These have been converted to MD (from txt)
     - To address:
         - Intersecting Lines needs fleshed out
-        - Problem B has inconsistent data
-            - Recommend pulling a different one
         - We should add a few problems (we only have seven) 
-
+        - Added H and I from 2017 ICPC
