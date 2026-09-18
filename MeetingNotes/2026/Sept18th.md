@@ -18,3 +18,20 @@
         - Intersecting Lines needs fleshed out
         - We should add a few problems (we only have seven) 
         - Added H and I from 2017 ICPC
+
+
+## Notes:
+
+- Decided on Oct. 17th official
+    - no later than Sep. 29th
+- Put this on Engage ASAP
+- Drop A or B (replace with something easy)
+- Send Adrien Syllabi
+- Bibek doesn't like the theme
+- Reese: Check Donuts
+- Kayleigh: Check Pizza
+- Prizes:
+    - Pirate ducks?
+
+2025: 57 students
+2023: 84 students
