@@ -1,0 +1,37 @@
+# Agenda:
+
+## Yearly Contest:
+
+- Solidify Contest Date
+    - Proposed: October 17th, 2026
+- Select date of announcement
+- Discuss registration options 
+    - Who will organize this? (E.g. Can we handle this, or must the dept. handle this)
+    - How will it be organized? (see REGISTRATION-FORM.md)
+    - Any changes we want to make (data-analytics forward)
+- Data Analytics Solutions
+- Discuss problem set
+    - Pulling from 2017 set (Prev. year used 2016)
+    - Pirate theme 
+    - These have been converted to MD (from txt)
+    - To address:
+        - Intersecting Lines needs fleshed out
+        - We should add a few problems (we only have seven) 
+        - Added H and I from 2017 ICPC
+
+
+## Notes:
+
+- Decided on Oct. 17th official
+    - no later than Sep. 29th
+- Put this on Engage ASAP
+- Drop A or B (replace with something easy)
+- Send Adrien Syllabi
+- Bibek doesn't like the theme
+- Reese: Check Donuts
+- Kayleigh: Check Pizza
+- Prizes:
+    - Pirate ducks?
+
+2025: 57 students
+2023: 84 students
